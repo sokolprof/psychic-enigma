@@ -1,0 +1,16 @@
+{
+  "arch": "x86_64",
+  "build": "h2bbff1b_7",
+  "build_number": 7,
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "license": "ISC",
+  "license_family": "Other",
+  "name": "cfitsio",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1655709069465,
+  "version": "3.470"
+}

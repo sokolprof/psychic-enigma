@@ -1,0 +1,20 @@
+{
+  "build": "h2bbff1b_7",
+  "build_number": 7,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "fn": "cfitsio-3.470-h2bbff1b_7.conda",
+  "license": "ISC",
+  "md5": "889519e6e78352d8c91011e04b07293d",
+  "name": "cfitsio",
+  "sha256": "bbf3d85b11758306fa8cb2b8a94044c50566a53a7162af979ecb6e043d4334ec",
+  "size": 530915,
+  "subdir": "win-64",
+  "timestamp": 1655709069000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/cfitsio-3.470-h2bbff1b_7.conda",
+  "version": "3.470"
+}
